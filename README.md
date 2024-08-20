@@ -1,0 +1,2 @@
+# DeathRanking
+Minecraft Plugin - DeathRanking
